@@ -1,0 +1,10 @@
+language: python
+python:
+    - 2.7
+
+install:
+    - pip install hacking autopep8 ipaddr testtools tox
+
+script:
+    - tox -e pep8
+    - tox -e py27   
