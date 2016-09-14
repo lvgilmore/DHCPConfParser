@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: DHCPConfParser
+Version: 0.0.0
+Summary: parser for linux dhcpd.conf file
+Home-page: UNKNOWN
+Author: Eitan Geiger
+Author-email: geigereitan@gmail.com
+License: GNU Public Licence, Version 3
+Description: 
+        
+        
+Platform: UNKNOWN
+Classifier: Topic :: Utilities
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU Public Licence
+Classifier: Operating System :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
